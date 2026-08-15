@@ -1,0 +1,6 @@
+.md-header__topic:not([data-md-component="header-topic"]) {
+  display: none;
+}
+.md-nav--primary[data-md-level="0"] > .md-nav__title {
+  font-size: 0;
+}
