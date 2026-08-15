@@ -8,7 +8,7 @@ repo_name: apex-docs
 repo_url: https://github.com/fabetabilo/apex-docs
 
 copyright: >
-  Apex is an independent learning project. Not affiliated with the brands and external apps mentioned.
+  Apex is an independent learning project. Not affiliated with the brands or external apps mentioned.
 
 theme:
   name: material
@@ -17,13 +17,13 @@ theme:
   palette:
     - scheme: slate
       primary: black
-      accent: blue
+      accent: red
       toggle:
         icon: material/weather-night
         name: Switch to light mode
     - scheme: default
       primary: black
-      accent: blue
+      accent: red
       toggle:
         icon: material/weather-sunny
         name: Switch to dark mode
