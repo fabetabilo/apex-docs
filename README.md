@@ -1,5 +1,5 @@
 <p align="center">
-<img width="400" alt="Apex-logger" src="docs/sml.png">
+<img width="400" alt="Apex-logger" src="docs/assets/sml.png">
 </p>
 
 ---
