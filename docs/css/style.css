@@ -81,3 +81,11 @@
 .md-nav--primary[data-md-level="0"] > .md-nav__title {
   font-size: 0;
 }
+
+/* datalogger -------- */
+.md-typeset .grid.cards .card-icon {
+  width: 120px;
+  object-fit: contain;
+  vertical-align: middle;
+  margin-right: 0.4rem;
+}

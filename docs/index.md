@@ -12,6 +12,8 @@ Learning project documentation
 
 ## First welcome section
 
-Hello there
+Hello there. This is currently in development :)
 
 </div>
+
+Start here: [Getting Started](datalogger/getting-started.md)

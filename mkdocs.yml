@@ -8,7 +8,7 @@ repo_name: apex-docs
 repo_url: https://github.com/fabetabilo/apex-docs
 
 copyright: >
-  Apex is an independent learning project. Not affiliated with the brands or external apps mentioned.
+  Apex is an independent learning project. Not affiliated with the brands, products or external apps mentioned.
 
 theme:
   name: material
@@ -50,6 +50,9 @@ theme:
     - search.highlight
     - content.code.copy
 
+plugins:
+  - glightbox
+
 extra_css:
   - css/style.css
 
@@ -82,4 +85,6 @@ markdown_extensions:
 nav:
   - Home: index.md
   - Datalogger:
+      - Installation: datalogger/installation.md
+      - Getting Started: datalogger/getting-started.md
       - Features: datalogger/features.md
