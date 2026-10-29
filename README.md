@@ -9,5 +9,7 @@ Apex project docs
 </p>
 
 <h4 align="center"><strong>
-<a href="#futurelink">Official Documentation</a>
+<a href="https://fabetabilo.github.io/apex-docs/">Official Documentation</a>
+</br>
+<a href="https://github.com/fabetabilo/apex-logger">Datalogger</a>
 </strong></h4>
