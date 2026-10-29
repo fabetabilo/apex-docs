@@ -1,7 +1,8 @@
 :root {
-  --at-red: #e1261c;
+  --at-red: #1083EE;
   --at-red-dim: #7a1712;
   --at-amber: #f2a93c;
+  --at-orange: #ED6C09;
 }
 
 [data-md-color-scheme="slate"][data-md-color-primary="black"] {
@@ -63,6 +64,14 @@
 
 .md-header__topic:not([data-md-component="header-topic"]) {
   display: none;
+}
+
+.md-typeset > blockquote {
+  border-left: 4px solid var(--at-red) !important;
+}
+
+.md-typeset li > blockquote {
+  border-left: 4px solid var(--at-red) !important;
 }
 
 /* sidebar nav ===== */
